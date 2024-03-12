@@ -1,13 +1,13 @@
 <h1 align="center">
-  Tela de Login/Signup
+  Site Nutricionista
 </h1>
 
 ## 🏠 Aplicação:
-https://tela-login-signup.vercel.app/
+https://sitenutricionista.vercel.app/
 <br><br>
 
 ## 🎯 Objetivo:
-<span>A aplicação tem como objetivo demonstrar as telas de Login e Signup de um sistema.</span>
+<span>A aplicação trata-se de um site e tem como objetivo expor as informações de um negócio na internet.</span>
 <br><br>
 
 ## 💡 Tecnologias:
@@ -29,7 +29,7 @@ As tecnologias utilizadas foram: HTML, CSS, Git e Vercel.
 
 ## 💻 Telas:
 <div align="center">
-  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/017e0e9f-1736-4edc-a164-e4c752d4c69d" width="160">
-  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/6fb321fd-6099-4561-8f71-436383bcf7d4" width="550">
-  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/13b1d88b-ed58-464f-9743-91f8f98bd254" width="110">
+  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/7f2fe37f-e1ca-4fa8-90a1-d994ee263143" width="160">
+  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/683b0576-d638-4c00-83ec-4e851cb7d25a" width="550">
+  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/a2ed37ad-f973-4ff2-be10-264e9412bb7a" width="110">
 </div>
