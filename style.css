@@ -482,6 +482,10 @@
     color: #FFFFFF;
 }
 
+.text-direitos, .text-politica {
+    text-align: center;
+}
+
 @media screen and (max-width: 948px) {
     .cards-acompanhamento {
         display: flex;
@@ -489,7 +493,7 @@
         row-gap: 20px;
     }
     .qualidade-vida, .objetivos, .aprender-nutricao {
-        height: 200px;
+        height: 250px;
     }
     .nutricao-esportiva, .nutricao-clinica, .nutricao-pediatrica, .nutricao-consultoria {
         display: flex;
@@ -536,6 +540,9 @@
 }
 
 @media screen and (max-width: 857px) {
+    .links {
+        display: none;
+    }
     .contatos {
         display: flex;
         flex-direction: column;
@@ -605,5 +612,11 @@
     }
     .text-fale-conosco {
         width: 100%;
+    }
+}
+
+@media screen and (max-width: 617px) {
+    iframe {
+        max-width: 500px;
     }
 }
