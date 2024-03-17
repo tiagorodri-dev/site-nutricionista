@@ -617,3 +617,42 @@
         width: 100%;
     }
 }
+
+@media screen and (max-width: 447px) {
+    .acompanhamento h2 {
+        font-size: 30px;
+    }
+    .qualidade-vida, .objetivos, .aprender-nutricao {
+        min-height: 450px;
+    }
+    .card-proteina, .card-ansiedade, .card-alimentos {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 365px) {
+    .contato {
+        display: flex;
+        flex-direction: column;
+    }
+    .redes-sociais-header i {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 335px) {
+    .nossas-especialidades h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .logo-rodape, .contato-rodape, .institucional-rodape ,.especialidades-rodape, .redes-sociais-rodape {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 316px) {
+    .nav {
+        display: flex;
+        flex-direction: column;
+    }
+}
