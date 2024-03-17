@@ -531,6 +531,9 @@
         align-items: center;
         flex-direction: column;
     }
+    iframe {
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width: 897px) {
@@ -612,11 +615,5 @@
     }
     .text-fale-conosco {
         width: 100%;
-    }
-}
-
-@media screen and (max-width: 617px) {
-    iframe {
-        max-width: 500px;
     }
 }
