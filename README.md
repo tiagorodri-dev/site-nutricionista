@@ -29,7 +29,7 @@ As tecnologias utilizadas foram: HTML, CSS, Git e Vercel.
 
 ## 💻 Telas:
 <div align="center">
-  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/7f2fe37f-e1ca-4fa8-90a1-d994ee263143" width="160">
+  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/759b8ae3-66b4-45b7-bedf-34c25fd9c447" width="160">
   <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/683b0576-d638-4c00-83ec-4e851cb7d25a" width="550">
-  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/a2ed37ad-f973-4ff2-be10-264e9412bb7a" width="110">
+  <img src="https://github.com/tiagorodri-dev/site-nutricionista/assets/68871083/c25fdd48-55ac-45e0-a703-60a14ccda49b" width="110">
 </div>
