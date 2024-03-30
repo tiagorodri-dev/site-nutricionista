@@ -7,7 +7,7 @@ https://sitenutricionista.vercel.app/
 <br><br>
 
 ## 🎯 Objetivo:
-<span>O objetivo do site é posicionar a empresa no mundo digital, expondo as informações de um negócio do ramo de nutrição na internet.</span>
+<span>Posicionar a empresa no mundo digital, expondo as informações de um negócio do ramo de nutrição na internet.</span>
 <br><br>
 
 ## 💡 Tecnologias:
@@ -32,6 +32,7 @@ As tecnologias utilizadas foram: HTML, CSS, Git e Vercel.
   <li>Abra a aplicação.</li>
   <li>Vá rolando a página e veja os efeitos das animações.</li>
 </ol>
+<br>
 
 ## 💻 Telas:
 <div align="center">
