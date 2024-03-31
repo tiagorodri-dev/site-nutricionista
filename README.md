@@ -7,7 +7,7 @@ https://sitenutricionista.vercel.app/
 <br><br>
 
 ## 🎯 Objetivo:
-<span>Posicionar a empresa no mundo digital, expondo as informações de um negócio do ramo de nutrição na internet.</span>
+<span>Treinar o desenvolvimento de um site grande e suas complexidades, aplicando os conceitos de HTML, Media Queries (Responsividade), CSS Flex-box e AOS.js (biblioteca javascript que permite criar animações através do scroll da página.</span>
 <br><br>
 
 ## 💡 Tecnologias:
